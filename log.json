@@ -1,0 +1,25 @@
+{
+            "datetime": "2020-May-07 02:53:50 ",
+            "N": 12,
+            "Cats": "Cat1 Bombay\r\n,Cat2 British Longhair\r\n,Cat3 British Shorthair\r\n",
+            "countAll": 13,
+            "countN": 4
+        }{
+            "datetime": "2020-May-07 02:53:53 ",
+            "N": 3,
+            "Cats": "Cat1 American Curl\r\n,Cat2 American Shorthair\r\n,Cat3 American Wirehair\r\n",
+            "countAll": 14,
+            "countN": 4
+        }{
+            "datetime": "2020-May-07 02:53:55 ",
+            "N": 44,
+            "Cats": "Cat1 Chinchilla Persian\r\n,Cat2 Cornish Rex\r\n,Cat3 Cymric\r\n",
+            "countAll": 15,
+            "countN": 3
+        }{
+            "datetime": "2020-May-07 02:54:02 ",
+            "N": 33,
+            "Cats": "Cat1 American Shorthair\r\n,Cat2 American Wirehair\r\n,Cat3 Balinese cat\r\n",
+            "countAll": 16,
+            "countN": 1
+        }
